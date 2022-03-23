@@ -1,12 +1,12 @@
 <p align='center'>
-  <b>Hi 👋, I'm Killerclaws12</b><br>
-  <a href="https://discord.gg/pW4xBvrBH9">Discord</a> |
-  <a href="https://twitter.com/mrclaws101">Twitter</a> |
+  <b>Hi 👋, I'm StormyGalaxy4</b><br>
+  <a href="https://discord.gg/qkBtaJ7Gss">Discord</a> |
+  <a href="https://twitter.com/stormygalaxy4">Twitter</a> |
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/killerclaws12">
-    <img src="https://lanyard.cnrad.dev/api/620708924093628436"/>
+  <a href="https://github.com/stormygalaxy4">
+    <img src="https://lanyard.cnrad.dev/api/Mr. StormyGalaxy ツ#1297"/>
      </a>
 </p>
 
