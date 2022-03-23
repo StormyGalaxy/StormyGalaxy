@@ -24,9 +24,9 @@
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
 	<br><br>
 	<b>My Github Stats</b><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=killerclaws12&theme=dark&hide_border=true">
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=StormyGalaxy&theme=dark&hide_border=true">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=killerclaws12&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api?username=StormyGalaxy&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerclaws12&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StormyGalaxy&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
