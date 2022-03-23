@@ -1,12 +1,12 @@
 <p align='center'>
-  <b>Hi 👋, I'm StormyGalaxy4</b><br>
+  <b>Hi 👋, I'm StormyGalaxy</b><br>
   <a href="https://discord.gg/qkBtaJ7Gss">Discord</a> |
   <a href="https://twitter.com/stormygalaxy4">Twitter</a> |
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/stormygalaxy4">
-    <img src="https://lanyard.cnrad.dev/api/Mr. StormyGalaxy ツ#1297"/>
+  <a href="https://github.com/stormygalaxy">
+    <img src="https://lanyard.cnrad.dev/api/692547231873499227"/>
      </a>
 </p>
 
