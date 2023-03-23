@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm StormyGalaxy</b><br>
-  <a href="https://discord.gg/qkBtaJ7Gss">Discord</a> |
+  <a href="https://discordapp.com/users/692547231873499227">Discord</a> |
   <a href="https://twitter.com/stormygalaxy4">Twitter</a> |
 </p>
 
